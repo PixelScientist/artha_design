@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #ae892b;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g class="cls-1">
+    <g id="modern-house_1" data-name="modern-house 1">
+      <g id="Layer_1-2" data-name="Layer_1">
+        <g id="_310269408" data-name=" 310269408">
+          <g id="Group">
+            <g id="Group_2" data-name="Group 2">
+              <g id="_270710048" data-name=" 270710048">
+                <path id="Vector" class="cls-3" d="M71.6,32h-12.7c-.6,0-.9-.3-.9-.9v-12.7c0-.5.3-.9.9-.9h12.7c.5,0,.9.5.9.9v12.7c0,.6-.5.9-.9.9ZM59.8,30.2h10.8v-10.8h-10.8v10.8Z"/>
+              </g>
+              <g id="_270709544" data-name=" 270709544">
+                <path id="Vector_2" data-name="Vector 2" class="cls-3" d="M71.6,25.8h-12.7c-.6,0-.9-.5-.9-.9s.3-.9.9-.9h12.7c.5,0,.9.3.9.9s-.5.9-.9.9Z"/>
+              </g>
+              <g id="_270709664" data-name=" 270709664">
+                <path id="Vector_3" data-name="Vector 3" class="cls-3" d="M65.2,32c-.5,0-.9-.3-.9-.9v-12.7c0-.5.5-.9.9-.9s.9.5.9.9v12.7c0,.6-.5.9-.9.9Z"/>
+              </g>
+            </g>
+            <g id="Group_3" data-name="Group 3">
+              <g id="_270709784" data-name=" 270709784">
+                <path id="Vector_4" data-name="Vector 4" class="cls-3" d="M35.5,64.4H13.4c-.5,0-.9-.3-.9-.9v-21.9c0-.5.5-.9.9-.9h22c.5,0,.9.5.9.9v21.9c0,.6-.5.9-.9.9ZM14.4,62.5h20.2v-20H14.4v20Z"/>
+              </g>
+              <g id="_270710840" data-name=" 270710840">
+                <path id="Vector_5" data-name="Vector 5" class="cls-3" d="M35.5,53.4H13.4c-.5,0-.9-.3-.9-.9s.5-.9.9-.9h22c.5,0,.9.5.9.9s-.5.9-.9.9Z"/>
+              </g>
+              <g id="_270710696" data-name=" 270710696">
+                <path id="Vector_6" data-name="Vector 6" class="cls-3" d="M24.5,64.4c-.6,0-.9-.3-.9-.9v-21.9c0-.5.3-.9.9-.9s.9.5.9.9v21.9c0,.6-.5.9-.9.9Z"/>
+              </g>
+            </g>
+            <g id="_270709928" data-name=" 270709928">
+              <path id="Vector_7" data-name="Vector 7" class="cls-3" d="M79.1,79.1H.9c-.6,0-.9-.5-.9-.9v-7.5c0-.5.3-.9.9-.9h78.1c.6,0,.9.5.9.9v7.5c0,.5-.3.9-.9.9ZM1.9,77.2h76.2v-5.6H1.9v5.6Z"/>
+            </g>
+            <g id="_270710528" data-name=" 270710528">
+              <path id="Vector_8" data-name="Vector 8" class="cls-3" d="M74.5,71.6H5.5c-.5,0-.9-.3-.9-.9v-34.7c0-.5.5-.9.9-.9h69.1c.5,0,.9.5.9.9v34.7c0,.6-.5.9-.9.9ZM6.4,69.7h67.2v-32.8H6.4v32.8Z"/>
+            </g>
+            <g id="_270710168" data-name=" 270710168">
+              <path id="Vector_9" data-name="Vector 9" class="cls-3" d="M51.2,36.9H.9c-.6,0-.9-.5-.9-.9v-7.3c0-.6.3-.9.9-.9h50.3c.5,0,.9.3.9.9v7.3c0,.5-.5.9-.9.9ZM1.9,35h48.4v-5.5H1.9v5.5Z"/>
+            </g>
+            <g id="_270710192" data-name=" 270710192">
+              <path id="Vector_10" data-name="Vector 10" class="cls-3" d="M79.1,36.9h-27.8c-.5,0-.9-.5-.9-.9V1.9c0-.3.2-.6.5-.8.3-.2.6-.2.9,0l27.8,16.3c.3.2.5.5.5.8v17.8c0,.5-.3.9-.9.9ZM52.2,35h25.9v-16.2L52.2,3.6v31.4Z"/>
+            </g>
+            <g id="_270710480" data-name=" 270710480">
+              <path id="Vector_11" data-name="Vector 11" class="cls-3" d="M51.2,13.4H.9c-.6,0-.9-.3-.9-.9v-7.3c0-.5.3-.9.9-.9h50.3c.5,0,.9.5.9.9v7.3c0,.6-.5.9-.9.9ZM1.9,11.6h48.4v-5.5H1.9v5.5Z"/>
+            </g>
+            <g id="_270710624" data-name=" 270710624">
+              <path id="Vector_12" data-name="Vector 12" class="cls-3" d="M51.2,29.5H6.7c-.5,0-.9-.5-.9-.9V12.5c0-.5.5-.9.9-.9h44.5c.5,0,.9.5.9.9v16.1c0,.5-.5.9-.9.9ZM7.7,27.7h42.7v-14.2H7.7v14.2Z"/>
+            </g>
+            <g id="Group_4" data-name="Group 4">
+              <g id="_270710432" data-name=" 270710432">
+                <path id="Vector_13" data-name="Vector 13" class="cls-3" d="M67.8,71.6h-23.6c-.5,0-.9-.3-.9-.9v-19.5c0-.6.5-.9.9-.9h23.6c.5,0,.9.3.9.9v19.5c0,.6-.5.9-.9.9ZM45.2,69.7h21.7v-17.7h-21.7v17.7Z"/>
+              </g>
+              <g id="_270711224" data-name=" 270711224">
+                <path id="Vector_14" data-name="Vector 14" class="cls-3" d="M56.1,71.6c-.6,0-.9-.3-.9-.9v-19.5c0-.6.3-.9.9-.9s.9.3.9.9v19.5c0,.6-.5.9-.9.9Z"/>
+              </g>
+              <g id="_270711560" data-name=" 270711560">
+                <path id="Vector_15" data-name="Vector 15" class="cls-3" d="M56.1,61.9h-2.8c-.5,0-.9-.5-.9-.9s.5-.9.9-.9h2.8c.5,0,.9.3.9.9s-.5.9-.9.9Z"/>
+              </g>
+              <g id="_270711680" data-name=" 270711680">
+                <path id="Vector_16" data-name="Vector 16" class="cls-3" d="M58.9,61.9h-2.8c-.6,0-.9-.5-.9-.9s.3-.9.9-.9h2.8c.5,0,.9.3.9.9s-.5.9-.9.9Z"/>
+              </g>
+            </g>
+            <g id="Group_5" data-name="Group 5">
+              <g id="_270711056" data-name=" 270711056">
+                <path id="Vector_17" data-name="Vector 17" class="cls-3" d="M34.2,24.2c-.3,0-.6-.2-.8-.5l-3.3-5.5c-.3-.5-.2-1.1.3-1.2.5-.3,1.1-.2,1.4.3l3.1,5.5c.3.5.2,1.1-.3,1.2-.2.2-.3.2-.5.2Z"/>
+              </g>
+              <g id="_270711488" data-name=" 270711488">
+                <path id="Vector_18" data-name="Vector 18" class="cls-3" d="M27,24.2c-.3,0-.6-.2-.8-.5l-3.3-5.5c-.2-.5,0-1.1.5-1.2.3-.3.9-.2,1.2.3l3.1,5.5c.3.5.2,1.1-.3,1.2-.2.2-.3.2-.5.2Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
